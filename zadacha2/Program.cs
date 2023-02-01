@@ -17,6 +17,6 @@ else
     {
         number = number / 10;
     }
-    System.Console.WriteLine($"{number % 10}");
+    System.Console.WriteLine($"Третье число - {number % 10}");
 }
 
